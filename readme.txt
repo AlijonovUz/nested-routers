@@ -1,0 +1,1 @@
+Documentatsiyasi: https://github.com/alanjds/drf-nested-routers
